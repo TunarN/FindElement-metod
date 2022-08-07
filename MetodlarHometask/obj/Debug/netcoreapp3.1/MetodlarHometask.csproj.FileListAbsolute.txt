@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\bin\Debug\netcoreapp3.1\MetodlarHometask.exe
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\bin\Debug\netcoreapp3.1\MetodlarHometask.deps.json
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\bin\Debug\netcoreapp3.1\MetodlarHometask.runtimeconfig.json
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\bin\Debug\netcoreapp3.1\MetodlarHometask.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\bin\Debug\netcoreapp3.1\MetodlarHometask.dll
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\bin\Debug\netcoreapp3.1\MetodlarHometask.pdb
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\obj\Debug\netcoreapp3.1\MetodlarHometask.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\obj\Debug\netcoreapp3.1\MetodlarHometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\obj\Debug\netcoreapp3.1\MetodlarHometask.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\obj\Debug\netcoreapp3.1\MetodlarHometask.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\obj\Debug\netcoreapp3.1\MetodlarHometask.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\obj\Debug\netcoreapp3.1\MetodlarHometask.dll
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\obj\Debug\netcoreapp3.1\MetodlarHometask.pdb
+C:\Users\lenovo\Desktop\metodlar Hometask\MetodlarHometask\MetodlarHometask\obj\Debug\netcoreapp3.1\MetodlarHometask.genruntimeconfig.cache
